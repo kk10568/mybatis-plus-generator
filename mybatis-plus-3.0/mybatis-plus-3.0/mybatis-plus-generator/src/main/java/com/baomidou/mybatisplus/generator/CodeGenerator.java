@@ -48,9 +48,12 @@ public class CodeGenerator {
         GlobalConfig gc = new GlobalConfig();
         String projectPath = System.getProperty("user.dir");
         gc.setOutputDir(projectPath + "/src/main/java");
-        gc.setAuthor("jobob");
+        gc.setAuthor("Mo-LingMing");
+        //生成成功自动打开目录
         gc.setOpen(true);
-        // gc.setSwagger2(true); 实体属性 Swagger2 注解
+        gc.setSwagger2(true); //实体属性 Swagger2 注解
+        gc.setBaseResultMap(true);//开启 BaseResultMap
+        gc.setEntityName("%sPo");
         mpg.setGlobalConfig(gc);
 
         // 数据源配置
@@ -126,11 +129,12 @@ public class CodeGenerator {
         StrategyConfig strategy = new StrategyConfig();
         strategy.setNaming(NamingStrategy.underline_to_camel);
         strategy.setColumnNaming(NamingStrategy.underline_to_camel);
-        strategy.setSuperEntityClass("你自己的父类实体,没有就不用设置!");
-        strategy.setEntityLombokModel(true);
-        strategy.setRestControllerStyle(true);
+        //strategy.setSuperEntityClass("你自己的父类实体,没有就不用设置!");
+        strategy.setEntityLombokModel(true);//【实体】是否为lombok模型（默认 false）
+        strategy.setChainModel(true);//【实体】是否为链式模型（默认 false）
+        strategy.setRestControllerStyle(true);//生成 @RestController 控制器
         // 公共父类
-        strategy.setSuperControllerClass("你自己的父类控制器,没有就不用设置!");
+        //strategy.setSuperControllerClass("你自己的父类控制器,没有就不用设置!");
         // 写于父类中的公共字段
         strategy.setSuperEntityColumns("id");
         strategy.setInclude(scanner("表名，多个英文逗号分割").split(","));
