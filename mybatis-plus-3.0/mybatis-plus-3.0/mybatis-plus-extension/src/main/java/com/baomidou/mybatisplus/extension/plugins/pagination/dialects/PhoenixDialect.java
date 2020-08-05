@@ -19,5 +19,6 @@ package com.baomidou.mybatisplus.extension.plugins.pagination.dialects;
  * @author fly
  * @since 2019/12/20
  */
+@Deprecated
 public class PhoenixDialect extends PostgreDialect {
 }

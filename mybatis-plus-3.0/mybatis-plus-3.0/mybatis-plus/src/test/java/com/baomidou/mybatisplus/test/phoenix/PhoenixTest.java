@@ -7,7 +7,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.toolkit.SqlHelper;
 import com.baomidou.mybatisplus.test.phoenix.entity.PhoenixTestInfo;
 import com.baomidou.mybatisplus.test.phoenix.mapper.PhoenixTestInfoMapper;
-//import com.mysql.cj.xdevapi.SqlStatement;
+import com.mysql.cj.xdevapi.SqlStatement;
 import org.apache.ibatis.session.SqlSession;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
@@ -28,7 +28,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  * @author: fly
  * Created date: 2019/12/21 16:35
  */
-/*
 @DirtiesContext
 @TestMethodOrder(MethodOrderer.Alphanumeric.class)
 @ExtendWith(SpringExtension.class)
@@ -82,4 +81,3 @@ public class PhoenixTest {
     }
 
 }
-*/

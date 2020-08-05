@@ -23,7 +23,7 @@ import com.baomidou.mybatisplus.generator.config.GlobalConfig;
 import com.baomidou.mybatisplus.generator.config.PackageConfig;
 import com.baomidou.mybatisplus.generator.config.StrategyConfig;
 import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
-import com.mysql.jdbc.Driver;
+import com.mysql.cj.jdbc.Driver;
 import org.junit.jupiter.api.Test;
 
 /**
@@ -89,12 +89,12 @@ class CodeGeneratorTest {
 
     private void generateByTables(String packageName, String... tableNames) {
         GlobalConfig config = new GlobalConfig();
-        String dbUrl = "jdbc:mysql://192.168.40.160:3306/solar?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull";
+        String dbUrl = "jdbc:mysql://localhost:3306/mybatis-plus";
         DataSourceConfig dataSourceConfig = new DataSourceConfig();
         dataSourceConfig.setDbType(DbType.MYSQL)
             .setUrl(dbUrl)
-            .setUsername("dev")
-            .setPassword("dev")
+            .setUsername("root")
+            .setPassword("")
             .setDriverName(Driver.class.getName());
         StrategyConfig strategyConfig = new StrategyConfig();
         strategyConfig
@@ -108,8 +108,8 @@ class CodeGeneratorTest {
             .setInclude(tableNames);//修改替换成你需要的表名，多个表名传数组
         config.setActiveRecord(false)
             .setIdType(tableIdType)
-            .setAuthor("Mr.DaMo")
-            .setOutputDir("c:\\codeGen")
+            .setAuthor("K神带你飞")
+            .setOutputDir("d:\\codeGen")
             .setFileOverride(true);
         if (!serviceClassNameStartWithI) {
             config.setServiceName("%sService");

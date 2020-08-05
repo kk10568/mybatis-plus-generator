@@ -1,0 +1,69 @@
+2020-08-04 16:05:21.383 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:05:34.830 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:05:42.534 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 43.278 seconds (JVM running for 45.218)
+2020-08-04 16:08:45.728 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:09:03.359 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:09:13.451 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 49.957 seconds (JVM running for 52.656)
+2020-08-04 16:10:02.421 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:10:20.173 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:10:31.505 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 51.776 seconds (JVM running for 54.333)
+2020-08-04 16:12:18.466 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:12:39.283 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:12:50.725 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 56.081 seconds (JVM running for 59.084)
+2020-08-04 16:21:44.942 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:21:58.981 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:22:09.641 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 46.845 seconds (JVM running for 49.058)
+2020-08-04 16:26:55.252 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:27:08.882 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:27:16.763 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 43.49 seconds (JVM running for 45.465)
+2020-08-04 16:30:43.149 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:30:57.359 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:31:05.943 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 44.837 seconds (JVM running for 46.998)
+2020-08-04 16:34:57.152 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:35:11.058 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:35:19.036 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 43.95 seconds (JVM running for 46.095)
+2020-08-04 16:37:35.147 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:37:49.108 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:37:58.759 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 45.907 seconds (JVM running for 48.728)
+2020-08-04 16:40:14.603 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:40:29.821 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:40:41.328 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 49.414 seconds (JVM running for 51.863)
+2020-08-04 16:44:24.089 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:44:47.479 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:45:01.465 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 60.351 seconds (JVM running for 63.421)
+2020-08-04 16:57:08.121 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 16:57:23.174 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 16:57:36.920 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 51.622 seconds (JVM running for 54.409)
+2020-08-04 17:07:39.652 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:07:54.336 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:08:08.162 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 50.944 seconds (JVM running for 53.977)
+2020-08-04 17:13:56.422 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:14:12.988 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:14:25.996 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 52.01 seconds (JVM running for 55.269)
+2020-08-04 17:17:55.258 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:18:13.126 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:18:27.332 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 54.901 seconds (JVM running for 58.278)
+2020-08-04 17:22:32.645 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:22:47.842 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:22:57.073 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 46.754 seconds (JVM running for 49.009)
+2020-08-04 17:24:46.074 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:25:01.021 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:25:10.296 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 46.22 seconds (JVM running for 48.056)
+2020-08-04 17:26:54.473 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:27:07.387 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:27:14.904 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 42.408 seconds (JVM running for 44.418)
+2020-08-04 17:28:42.387 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:28:56.986 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:29:06.206 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 45.884 seconds (JVM running for 48.116)
+2020-08-04 17:34:05.848 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:34:19.383 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:34:28.105 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 44.399 seconds (JVM running for 46.701)
+2020-08-04 17:55:16.473 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 17:55:35.280 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 17:55:44.334 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 51.519 seconds (JVM running for 53.994)
+2020-08-04 18:34:57.165 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 18:35:20.339 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 18:35:31.177 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 57.713 seconds (JVM running for 60.094)
+2020-08-04 18:40:26.745 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-08-04 18:40:40.676 INFO  [main] com.ddmc.solar.console.config.XxlJobConfiguration 48  ->>>>>>>>>>> xxl-job config init.
+2020-08-04 18:40:48.245 INFO  [main] com.ddmc.solar.console.test.demo.DemoTest 59  -Started DemoTest in 44.249 seconds (JVM running for 46.879)

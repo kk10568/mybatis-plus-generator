@@ -1,0 +1,145 @@
+2020-07-31 10:36:13.618 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 10:36:21.920 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 10:36:22.113 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 10:36:22.140 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 10:36:22.147 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 10:36:31.513 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 29.716 seconds (JVM running for 31.612)
+2020-07-31 10:37:53.788 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 10:38:02.330 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 10:38:02.518 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 10:38:02.532 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 10:38:02.539 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 10:38:08.350 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 26.365 seconds (JVM running for 28.085)
+2020-07-31 11:06:55.074 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:07:03.648 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:07:03.825 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:07:03.837 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:07:03.843 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:07:09.785 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 36.498 seconds (JVM running for 38.407)
+2020-07-31 11:10:03.941 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:10:13.328 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:10:13.546 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:10:13.563 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:10:13.570 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:10:20.320 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 28.433 seconds (JVM running for 31.165)
+2020-07-31 11:10:55.749 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:11:04.493 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:11:04.704 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:11:04.718 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:11:04.726 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:11:11.942 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.895 seconds (JVM running for 29.778)
+2020-07-31 11:12:09.224 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:12:36.019 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:12:44.659 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:12:44.858 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:12:44.874 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:12:44.879 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:12:51.973 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.836 seconds (JVM running for 29.923)
+2020-07-31 11:22:54.790 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:23:02.970 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:23:03.140 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:23:03.152 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:23:03.158 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:23:08.581 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 25.532 seconds (JVM running for 27.384)
+2020-07-31 11:26:41.193 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:26:50.052 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:26:50.257 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:26:50.273 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:26:50.280 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:26:57.149 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.831 seconds (JVM running for 30.077)
+2020-07-31 11:27:24.845 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:27:33.680 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:27:33.876 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:27:33.891 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:27:33.898 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:27:40.578 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.791 seconds (JVM running for 30.098)
+2020-07-31 11:38:03.065 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:38:11.733 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:38:11.915 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:38:11.932 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:38:11.939 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:38:18.306 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.117 seconds (JVM running for 29.185)
+2020-07-31 11:50:34.719 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:50:42.733 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:50:42.912 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:50:42.925 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:50:42.931 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:50:48.230 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 25.212 seconds (JVM running for 26.96)
+2020-07-31 11:51:19.948 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 11:51:30.209 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 11:51:30.469 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 11:51:30.487 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 11:51:30.496 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 11:51:39.691 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 31.716 seconds (JVM running for 34.031)
+2020-07-31 13:55:23.069 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 13:55:31.649 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 13:55:31.828 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 13:55:31.844 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 13:55:31.851 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 13:55:38.242 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.098 seconds (JVM running for 29.369)
+2020-07-31 13:56:54.493 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 13:57:02.759 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 13:57:02.924 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 13:57:02.937 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 13:57:02.941 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 13:57:08.236 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 25.445 seconds (JVM running for 27.061)
+2020-07-31 14:10:51.889 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:11:00.375 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:11:00.558 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:11:00.572 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:11:00.580 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:11:06.439 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 26.378 seconds (JVM running for 28.592)
+2020-07-31 14:12:47.834 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:12:56.181 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:12:56.381 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:12:56.400 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:12:56.405 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:13:02.604 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 26.574 seconds (JVM running for 28.639)
+2020-07-31 14:13:53.005 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:14:01.677 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:14:01.917 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:14:01.939 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:14:01.947 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:14:08.113 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 26.952 seconds (JVM running for 29.027)
+2020-07-31 14:18:25.091 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:18:34.249 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:18:34.451 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:18:34.465 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:18:34.471 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:18:40.901 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.744 seconds (JVM running for 30.123)
+2020-07-31 14:19:36.139 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:19:44.915 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:19:45.116 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:19:45.134 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:19:45.143 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:19:51.671 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.409 seconds (JVM running for 29.469)
+2020-07-31 14:33:00.518 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:33:09.020 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:33:09.217 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:33:09.232 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:33:09.238 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:33:15.500 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 26.833 seconds (JVM running for 29.086)
+2020-07-31 14:34:23.387 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:34:32.206 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:34:32.404 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:34:32.421 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:34:32.426 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:34:38.703 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.284 seconds (JVM running for 29.504)
+2020-07-31 14:37:54.602 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:38:03.020 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:38:03.210 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:38:03.225 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:38:03.231 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:38:09.452 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 26.986 seconds (JVM running for 29.48)
+2020-07-31 14:39:26.621 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:39:35.727 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:39:35.930 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:39:35.950 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:39:35.958 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:39:42.403 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 27.739 seconds (JVM running for 30.099)
+2020-07-31 14:41:08.206 INFO  [main] com.ddmc.aps.test.demo.DemoTest 675  -No active profile set, falling back to default profiles: default
+2020-07-31 14:41:17.620 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 35  -init httpApiProperties
+2020-07-31 14:41:17.838 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 44  -init httpApiCollector
+2020-07-31 14:41:17.857 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 55  -init privilegeCollector
+2020-07-31 14:41:17.865 INFO  [main] c.d.g.bg.starter.httpapi.HttpApiAutoConfiguration 65  -init cachablePrivilegeCollector
+2020-07-31 14:41:24.474 INFO  [main] com.ddmc.aps.test.demo.DemoTest 59  -Started DemoTest in 28.189 seconds (JVM running for 30.266)

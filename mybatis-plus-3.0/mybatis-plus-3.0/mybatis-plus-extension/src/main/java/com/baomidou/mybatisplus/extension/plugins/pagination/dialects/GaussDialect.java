@@ -19,6 +19,6 @@ package com.baomidou.mybatisplus.extension.plugins.pagination.dialects;
  * @author lhx
  * @since 2020/3/26
  */
+@Deprecated
 public class GaussDialect extends OracleDialect {
-
 }

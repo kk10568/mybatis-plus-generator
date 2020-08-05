@@ -21,7 +21,7 @@ import com.baomidou.mybatisplus.generator.AutoGenerator;
 import com.baomidou.mybatisplus.generator.InjectionConfig;
 import com.baomidou.mybatisplus.generator.config.*;
 import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
-import com.mysql.jdbc.Driver;
+import com.mysql.cj.jdbc.Driver;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;

@@ -197,8 +197,9 @@ class WrapperTest {
         QueryWrapper<User> queryWrapper = new QueryWrapper<User>()
             .and(i -> i.eq("id", 1).nested(j -> j.ne("id", 2)))
             .or(i -> i.eq("id", 1).and(j -> j.ne("id", 2)))
-            .nested(i -> i.eq("id", 1).or(j -> j.ne("id", 2)));
-        logSqlSegment("测试 Nested 下的方法", queryWrapper, "((id = ? AND (id <> ?)) OR (id = ? AND (id <> ?)) AND (id = ? OR (id <> ?)))");
+            .nested(i -> i.eq("id", 1).or(j -> j.ne("id", 2)))
+            .not(i -> i.eq("id", 1).or(j -> j.ne("id", 2)));
+        logSqlSegment("测试 Nested 下的方法", queryWrapper, "((id = ? AND (id <> ?)) OR (id = ? AND (id <> ?)) AND (id = ? OR (id <> ?)) AND NOT (id = ? OR (id <> ?)))");
         logParams(queryWrapper);
     }
 
